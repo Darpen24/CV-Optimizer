@@ -1,7 +1,5 @@
 # CV-Optimizer
 
-# CV Optimizer with JD-based Summary & Skills (Ollama)
-
 This Streamlit application helps users optimize their Curriculum Vitae (CV) by rewriting the "Summary" or "Objective" section and adding missing "Skills" based on a provided Job Description (JD). It leverages a local Ollama instance running the Llama 3 model for text generation.
 
 ## Features
